@@ -16,8 +16,8 @@
 测试通过环境：Redmik50pro A13 XposedAPI 100 arm64-v8a
 
 ---
-![](./first-1.png) 
-![](./first-2.png)
-![](./second.png)
+![](https://cdn.jsdelivr.net/gh/mmmlllnnn/blog-img/momo-first-1.png)
+![](https://cdn.jsdelivr.net/gh/mmmlllnnn/blog-img/momo-first-2.png)
+![](https://cdn.jsdelivr.net/gh/mmmlllnnn/blog-img/momo-second.png)
 
 
